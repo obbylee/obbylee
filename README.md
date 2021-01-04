@@ -36,7 +36,7 @@
 ### :zap: GitHub Stats
 <p align = "center">
   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=obbylee&show_icons=true&theme=synthwave" />
-  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obbylee&layout=compact" />
+  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obbylee&layout=compact&exclude_repo=blogapp,css-loader" />
 </p>
 
 
