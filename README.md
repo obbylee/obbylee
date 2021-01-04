@@ -6,7 +6,7 @@
 - ⚡ Fun fact: 🤖 RPG Games and Light Novel 📜 is love
 <p> 📫📌  Born and Live in Surabaya, Indonesia </p>
 
-<img align="right" alt="Developer" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" />
+<img align="right" alt="Developer" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" />
 
 ### Connect with me:
 
@@ -14,8 +14,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -34,13 +32,12 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br />
-<br />
-
 ---
 ### :zap: GitHub Stats
+<p align = "center">
   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=obbylee&show_icons=true&theme=synthwave" />
   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obbylee&layout=compact" />
+</p>
 
 
 [website]: https://github.com/obbylee
