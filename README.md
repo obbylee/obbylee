@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> and Databases (MongoDB).
 - 🌱 Want to learn everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 🤖 RPG Games and Light Novel 📜 is love
 <p> 📫📌  Born and Live in Surabaya, Indonesia </p>
 
