@@ -1,12 +1,12 @@
 ### Hi there 👋
-<img align="right" alt="Developer" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" />
-- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- and Databases (MongoDB).
+- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> and Databases (MongoDB).
 - 🌱 Want to learn everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 🤖 RPG Games and Light Novel 📜 is love
 <p> 📫📌  Born and Live in Surabaya, Indonesia </p>
+
+<img align="right" alt="Developer" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" />
 
 ### Connect with me:
 
@@ -38,14 +38,10 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+### :zap: GitHub Stats
   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=obbylee&show_icons=true&theme=synthwave" />
   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obbylee&layout=compact" />
 
-</details>
 
 [website]: https://github.com/obbylee
 [twitter]: https://github.com/obbylee
